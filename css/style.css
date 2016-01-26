@@ -102,6 +102,8 @@ header {
   vertical-align: middle;
   box-shadow: #111 0 0 20px;
 }
+
+
 #submit-btn {
   background: #ffe500;
   color: #000;
@@ -142,7 +144,3 @@ header {
 /******************************************
 /* ADDITIONAL STYLES
 /*******************************************/
-
-
-
-
